@@ -1,0 +1,12 @@
+target
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+.git
+.gitignore
+.idea
+.vscode
+mvnw
+mvnw.cmd
